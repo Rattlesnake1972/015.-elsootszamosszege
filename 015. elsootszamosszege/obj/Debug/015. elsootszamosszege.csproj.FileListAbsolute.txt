@@ -1,0 +1,6 @@
+C:\Users\gratt\source\repos\015. elsootszamosszege\015. elsootszamosszege\bin\Debug\_015.elsootszamosszege.exe.config
+C:\Users\gratt\source\repos\015. elsootszamosszege\015. elsootszamosszege\bin\Debug\_015.elsootszamosszege.exe
+C:\Users\gratt\source\repos\015. elsootszamosszege\015. elsootszamosszege\bin\Debug\_015.elsootszamosszege.pdb
+C:\Users\gratt\source\repos\015. elsootszamosszege\015. elsootszamosszege\obj\Debug\015. elsootszamosszege.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\015. elsootszamosszege\015. elsootszamosszege\obj\Debug\_015.elsootszamosszege.exe
+C:\Users\gratt\source\repos\015. elsootszamosszege\015. elsootszamosszege\obj\Debug\_015.elsootszamosszege.pdb
